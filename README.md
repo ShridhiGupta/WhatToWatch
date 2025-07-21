@@ -48,10 +48,6 @@ jupyter notebook
 
 Run the cells to see movie recommendations based on the input title.
 
-## 📸 Demo
-
-<img src="assets/demo.png" alt="Movie Recommender Demo" width="700"/>
-
 ## 💡 Future Improvements
 
 * Add collaborative filtering

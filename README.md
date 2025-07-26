@@ -55,6 +55,13 @@ Choose your input movie title to get recommendations.
 - 🌐 Build a web interface using **Streamlit** or **Flask**
 - 🎞️ Integrate **TMDB API** for posters, ratings, and trailers
 
+## 📸 Project Preview
+
+Here’s a quick look at the movie recommendation output:
+
+![Streamlit App Screenshot](Screenshot.png)
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
